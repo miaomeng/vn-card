@@ -1,5 +1,10 @@
 # vn-card
 
+[![Travis](https://img.shields.io/travis/vue-napoleon/vn-card.svg?style=flat-square)](https://github.com/vue-napoleon/vn-card)
+[![Coveralls](https://img.shields.io/coveralls/vue-napoleon/vn-card.svg?style=flat-square)](https://github.com/vue-napoleon/vn-card)
+[![NPM version](https://img.shields.io/npm/v/vn-card.svg?style=flat-square)](https://npmjs.org/package/vn-card)
+
+
 > 一个基于 Vue 的卡片组件
 
 ## Build Setup

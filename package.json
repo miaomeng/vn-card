@@ -1,9 +1,9 @@
 {
   "name": "vn-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个基于 Vue 的卡片组件",
   "author": "limingmin <314407103@qq.com>",
-  "private": true,
+  "main":"./src/Card.vue",
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
